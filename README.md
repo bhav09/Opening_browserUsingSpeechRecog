@@ -1,6 +1,12 @@
 # Opening_browserUsingSpeechRecog
 It includes dependencies like pyaudio , webbrowser , speechrecognition
 
+Installing the packages:
+
+webbrowser is inbuilt
+pip install pyaudio
+pip install speechrecognition
+
 1. This program asks for a Specific pass code that you have to speak
 
 
