@@ -17,9 +17,9 @@ It includes dependencies like pyaudio , webbrowser , speechrecognition
 
 3. If it matches with the required passcode .
       
-      3.1 You will be asked to speak the website where you want to go.
+            3.1 You will be asked to speak the website where you want to go.
       
-      3.2 A new tab will be opened in your browser with your desired url.
+            3.2 A new tab will be opened in your browser with your desired url.
    
    Else throws a default wrong pass code message
    
