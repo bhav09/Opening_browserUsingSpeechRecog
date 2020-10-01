@@ -6,6 +6,9 @@ It includes dependencies like pyaudio , webbrowser , speechrecognition
 ->webbrowser is inbuilt
 
 ->pip install pyaudio
+Some people face problem in installing PyAudio so you can visit this website and install externally
+Website : https://www.lfd.uci.edu/~gohlke/pythonlibs/
+Search for PyAudio and install according to your python version and os configuration.
 
 ->pip install speechrecognition
 
